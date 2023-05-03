@@ -1,0 +1,41 @@
+*{
+margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+font-family: 'Dancing Script', cursive;
+font-size: 30px;
+}
+
+.container{
+height: 100vh;
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+ background-color:  rgba(57, 155, 247, 0.9);
+}
+
+img{
+    border-radius: 60%;
+    width: 300px;
+    height: 300px
+} 
+
+h1{
+    font-size: 100px;
+    color: beige;
+    margin: 30px;
+}
+
+.show{
+    font-size: 100px;
+    color: beige;
+    margin: 30px;
+}
+
+.btns{
+    padding: 20px;
+    letter-spacing: 2px;
+    cursor: pointer;
+}
+
